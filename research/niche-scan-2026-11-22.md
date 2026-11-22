@@ -49,3 +49,13 @@ The existing brief in `videos/001-steal-an-egg-illegal-tricks/` still works, but
 3. **Opportunistic:** 100 Miles Down the River escalation, or the Steal an Egg ice biome
 
 ⚠️ Re-check before filming: open Roblox → Charts → "Top Playing Now" and confirm the game is still near the top. Ask Claude to re-run this scan any time.
+
+## Update: biggest games by live players (tracker snapshots, 22 Nov 2026)
+From search snippets of third-party trackers (live pages couldn't be opened from this environment):
+- **Steal An Egg:** #1 everywhere. 548K–667K playing (one dated page says 1.5M).
+- **Brookhaven RP:** about 345K (#2 on Statroblox)
+- Also near the top on every tracker: **Throw Food For Animals**, Blox Fruits, Murder Mystery 2, Adopt Me!, 99 Nights in the Forest, RIVALS
+- **Survive Your Ideas:** about 46–54K now (peak about 108K on 14 Nov), so roughly 10x smaller than Steal an Egg
+- All of Roblox: about 9.8–10.8M playing at that moment
+
+Takeaway: Steal an Egg and Throw Food for Animals have top-tier audiences. Survive Your Ideas has a strong YouTube wave, but its player count is smaller and falling.
