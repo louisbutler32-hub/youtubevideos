@@ -2,6 +2,9 @@
 
 **Total: about 5–7 hours of recording over 2–3 sessions.** Record everything. You'll use about 18 minutes of it.
 
+## Trick list
+Backup tricks and conversation starters, freshest first: `research/steal-an-egg/trick-list-for-003.md`. Be filming at **:15 and :45** past the hour for Turkey Rampage tricks.
+
 ## Before you start
 - [ ] OBS set up (see `playbook/recording.md`): 1080p 60fps, game audio and mic on separate tracks
 - [ ] **Fresh or low account.** Note your starting speed: `{___}`
