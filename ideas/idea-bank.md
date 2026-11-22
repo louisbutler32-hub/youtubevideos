@@ -13,7 +13,10 @@ Only make ideas scoring **18+**.
 
 | Score | Idea | Format | Notes |
 |---|---|---|---|
-| 22 | ✅ IN PROGRESS: I Tested 50 "Illegal" Tricks In Steal An Egg (Noob → Divine finale) | Myth busting | See `videos/001-steal-an-egg-illegal-tricks/` |
+| 24 | ⭐ NEXT: I Tested 100 Words From Weakest To Most OP (Survive Your Ideas) | Power ladder | Fastest to film, no one has done the ladder. See `research/niche-scan-2026-11-22.md` |
+| 21 | Throwing Every Food From Worst To Rarest (Throw Food for Animals) | Rarity ladder | Huge genre (1.3M, 741K, 698K). Re-skin for Throw a Seed. |
+| 19 | 100 Miles Down The River, But Every 10 Miles Gets Harder | Escalation | Brand-new game. Only if posted within ~1 week. |
+| 18 | BACKUP: I Tested 50 "Illegal" Tricks In Steal An Egg | Myth busting | Crowded. Brief ready in `videos/001-steal-an-egg-illegal-tricks/` |
 | 21 | Busting Every Myth In The NEW Steal An Egg Ice Biome | Myth busting | Drops next weekend. Publish within 48h of release. |
 | ? | I Tested Every Viral TikTok Hack In [rising game] | Myth busting | Source everything from TikTok, show the clip PiP |
 | ? | [Ragdoll game] But Every Fall Gets 10x Higher | Escalation | Very visual, beginner-friendly, funny fails |

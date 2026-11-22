@@ -17,6 +17,9 @@ Roblox players aged roughly 9–16 who already play (or watch videos about) the 
 5. **Beginner-friendly execution.** Our edge is effort and editing, not skill. Grinding 10 hours AFK is "extreme" and needs zero skill.
 6. **Original footage only.** Never re-upload or re-cut other people's videos.
 
+## The engine comes first
+Every video runs on the WOLF engine (`research/the-wolf-engine.md`): questions viewers already have, a big count, a ladder announced in the first 30 seconds, the biggest thing saved for last. **The ladder can be power, size, rarity or distance, not just time**, so videos film in hours, not weeks.
+
 ## Our formats (start with #1, add others once it works)
 
 ### 1. Myth Busting / "Testing 100 Myths" ⭐ main format
