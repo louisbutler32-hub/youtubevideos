@@ -1,0 +1,24 @@
+# Idea Bank
+
+## How to score an idea (each 1–5, total out of 25)
+- **Game heat**: is the game rising right now?
+- **Click**: would a kid HAVE to click the title + thumbnail?
+- **Extreme**: is it 10x bigger than what normal players do?
+- **Doable**: can a beginner actually film it this week?
+- **Finale**: is there a clear, visual, insane ending?
+
+Only make ideas scoring **18+**.
+
+## Ideas
+
+| Score | Idea | Format | Notes |
+|---|---|---|---|
+| ? | Busting 100 Myths In Steal An Egg | Myth busting | Game is hot (22 Nov 2026). Check how many myth videos already exist. |
+| ? | I Tested Every Viral TikTok Hack In [rising game] | Myth busting | Source everything from TikTok, show the clip PiP |
+| ? | [Ragdoll game] But Every Fall Gets 10x Higher | Escalation | Very visual, beginner-friendly, funny fails |
+| ? | Stop The Tsunami But The Wave Gets Bigger Every Round | Escalation | Check the game supports it, or fake the escalation with self-imposed rules |
+| ? | I Spent 24 Hours Getting The Rarest Egg In Steal An Egg | Grind | Time-lapse + counter, finale = getting it |
+| ? | 100 Noobs vs [hardest thing] In [game] | Crowd challenge | Needs a Discord/community, so save for later |
+| ? | Rarest Secrets In [game] That 99% Of Players Missed | Rare/secret | Research from wiki + Discord |
+
+> Re-check which games are trending before picking. Ask Claude: "What Roblox games are rising this week?"
