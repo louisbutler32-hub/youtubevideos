@@ -13,6 +13,7 @@ Only make ideas scoring **18+**.
 
 | Score | Idea | Format | Notes |
 |---|---|---|---|
+| 25 | ⭐⭐ MAIN PLAN: I Asked 100 Steal An Egg Players For Their Best Trick | Player-sourced ladder | #1 game, easy to film, no one has done it. `videos/003-steal-an-egg-asked-100-players/` |
 | 24 | ⭐ NEXT: I Tested 100 Words From Weakest To Most OP (Survive Your Ideas) | Power ladder | Fastest to film, no one has done the ladder. See `research/niche-scan-2026-11-22.md` |
 | 21 | Throwing Every Food From Worst To Rarest (Throw Food for Animals) | Rarity ladder | Huge genre (1.3M, 741K, 698K). Re-skin for Throw a Seed. |
 | 19 | 100 Miles Down The River, But Every 10 Miles Gets Harder | Escalation | Brand-new game. Only if posted within ~1 week. |
