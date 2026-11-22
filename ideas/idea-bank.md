@@ -13,7 +13,8 @@ Only make ideas scoring **18+**.
 
 | Score | Idea | Format | Notes |
 |---|---|---|---|
-| ? | Busting 100 Myths In Steal An Egg | Myth busting | Game is hot (22 Nov 2026). Check how many myth videos already exist. |
+| 22 | ✅ IN PROGRESS: I Tested 50 "Illegal" Tricks In Steal An Egg (Noob → Divine finale) | Myth busting | See `videos/001-steal-an-egg-illegal-tricks/` |
+| 21 | Busting Every Myth In The NEW Steal An Egg Ice Biome | Myth busting | Drops next weekend. Publish within 48h of release. |
 | ? | I Tested Every Viral TikTok Hack In [rising game] | Myth busting | Source everything from TikTok, show the clip PiP |
 | ? | [Ragdoll game] But Every Fall Gets 10x Higher | Escalation | Very visual, beginner-friendly, funny fails |
 | ? | Stop The Tsunami But The Wave Gets Bigger Every Round | Escalation | Check the game supports it, or fake the escalation with self-imposed rules |

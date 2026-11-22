@@ -18,6 +18,28 @@
 - Rarest [Things] In [Game] (That You've Never Seen)
 - [100] Players vs [Big Thing] In [Game]
 
+## The "feels like cheating" angle (without saying cheats or hacks)
+
+Kids click "cheats" and "hacks". But those words make the video look like exploit content, which is risky with Roblox's rules and YouTube's kids policies, and it pulls in the wrong viewers. **Use words that give the same "this is unfair" feeling, but mean legit tricks inside the game.**
+
+| Instead of… | Say… |
+|---|---|
+| Cheats | **Tricks That Feel Illegal**, **"Illegal" Tricks** (with the quotes), **Unfair Tricks** |
+| Hacks | **Loopholes**, **Shortcuts**, **Secret Methods**, **Broken Tricks** |
+| Exploits | **Things The Devs Didn't Want You To Know**, **Tricks Pros Hide From You** |
+| Glitches (fine, but overused) | **Game-Breaking Tricks**, **OP Tricks**, **Too-Easy Tricks** |
+
+### Title formulas in this style
+- I Tested Every "Illegal" Trick In [Game]
+- [Game] Tricks That Feel Illegal
+- I Tested [Game] Loopholes The Devs Forgot To Fix
+- I Tested 50 Unfair Tricks In [Game]
+- [Game] Shortcuts Pros Don't Want You To Know
+- Using ONLY "Illegal" Tricks To Go Noob To Pro In [Game]
+- I Broke [Game] With 50 Tricks
+
+**Rule:** the tricks in the video must be legit game mechanics (hiding spots, boss AI quirks, shop items, server hopping). No WiFi-off duping, no scripts, no exploits. The title promises "feels like cheating", and the video delivers clever but allowed stuff.
+
 ## Thumbnail rules
 - **One clear idea.** Readable on a phone at thumbnail size.
 - **The most impossible-looking moment** from the video, made bigger and brighter.
